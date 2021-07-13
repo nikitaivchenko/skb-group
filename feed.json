@@ -9,19 +9,5 @@
         "name": "nivchenko"
     },
     "items": [
-        {
-            "id": "https://nikitaivchenko.github.io/skb-group/gruppa.html",
-            "url": "https://nikitaivchenko.github.io/skb-group/gruppa.html",
-            "title": "группа",
-            "summary": " хмммм ",
-            "content_html": "\n  <p>\n    хмммм\n  </p>",
-            "author": {
-                "name": "nivchenko"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-13T20:55:54+06:00",
-            "date_modified": "2021-07-13T20:55:54+06:00"
-        }
     ]
 }

@@ -3,33 +3,10 @@
     <title>skb-group</title>
     <link href="https://nikitaivchenko.github.io/skb-group/feed.xml" rel="self" />
     <link href="https://nikitaivchenko.github.io/skb-group" />
-    <updated>2021-07-13T20:55:54+06:00</updated>
+    <updated>1970-01-01T06:00:00+06:00</updated>
     <author>
         <name>nivchenko</name>
     </author>
     <id>https://nikitaivchenko.github.io/skb-group</id>
 
-    <entry>
-        <title>группа</title>
-        <author>
-            <name>nivchenko</name>
-        </author>
-        <link href="https://nikitaivchenko.github.io/skb-group/gruppa.html"/>
-        <id>https://nikitaivchenko.github.io/skb-group/gruppa.html</id>
-
-        <updated>2021-07-13T20:55:54+06:00</updated>
-            <summary>
-                <![CDATA[
-                     хмммм 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    хмммм
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
