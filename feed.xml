@@ -3,124 +3,32 @@
     <title>skb-group</title>
     <link href="https://nikitaivchenko.github.io/skb-group/feed.xml" rel="self" />
     <link href="https://nikitaivchenko.github.io/skb-group" />
-    <updated>2021-07-13T20:50:13+06:00</updated>
+    <updated>2021-07-13T20:55:54+06:00</updated>
     <author>
         <name>nivchenko</name>
     </author>
     <id>https://nikitaivchenko.github.io/skb-group</id>
 
     <entry>
-        <title>Группа компаний СКБ</title>
+        <title>группа</title>
         <author>
             <name>nivchenko</name>
         </author>
-        <link href="https://nikitaivchenko.github.io/skb-group/gruppa-kompaniy-skb.html"/>
-        <id>https://nikitaivchenko.github.io/skb-group/gruppa-kompaniy-skb.html</id>
+        <link href="https://nikitaivchenko.github.io/skb-group/gruppa.html"/>
+        <id>https://nikitaivchenko.github.io/skb-group/gruppa.html</id>
 
-        <updated>2021-07-13T20:50:13+06:00</updated>
+        <updated>2021-07-13T20:55:54+06:00</updated>
             <summary>
                 <![CDATA[
-                     Блюда из любимого ресторана привезет курьер в перчатках, маске и с антисептиком Рестораны Пицца плюс 50 мин 4.5 От 900 р Пицца Zaburger'ом 40 мин 4.8 От 500 р Бургеры Тифлис 50 мин 3.9 От 600 р Грузинская кухня Фасоль 40 мин 3.4 От&hellip;
+                     хмммм 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<div class="container"><!-- Шапка сайта --><header class="header"><!-- Логотип --> <a href="index.html" class="logo"> <figure class="logo"><img loading="lazy"  src="img\logo.svg" data-is-external-image="true"  alt="Logo"></figure> </a> <!-- Поле адреса --> <input class="input input-address" type="text" placeholder="Адрес доставки">
-<div class="buttons"><button class="button button-primary"> <figure class="button-icon"><img loading="lazy"  src="img\user.svg" data-is-external-image="true"  alt="user"></figure> <span class="button-text">Войти</span> </button> <button class="button"> <figure class="button-icon"><img loading="lazy"  src="img\shopping-cart.svg" data-is-external-image="true"  alt=""></figure> <span class="button-text">Корзина</span> </button></div>
-</header></div>
-<!-- /.container --><main class="main">
-<div class="container">
-<section class="promo">
-<h1 class="promo-title">Онлайн-сервис <br>доставки еды на дом</h1>
-<p class="promo-text">Блюда из любимого ресторана привезет курьер в перчатках, маске и с антисептиком</p>
-</section>
-<section class="restaurants">
-<div class="section-heading">
-<h2 class="section-title">Рестораны</h2>
-<input class="input input-search" type="text" placeholder="Поиск блюд и ресторанов"></div>
-<div class="cards"><a href="restaurant.html" class="card"> <figure class="card-image"><img loading="lazy"  src="img/image.jpg" data-is-external-image="true"  alt="image"></figure></a>
-<div class="card-text">
-<div class="card-heading">
-<h3 class="card-title">Пицца плюс</h3>
-<span class="card-tag tag">50 мин</span></div>
-<!-- /.card-heading -->
-<div class="card-info">
-<div class="rating"><figure class="rating-star"><img loading="lazy"  src="img\rating.svg" data-is-external-image="true"  alt="rating"></figure> 4.5</div>
-<div class="price">От 900 р</div>
-<div class="category">Пицца</div>
-</div>
-<!-- /.card-info --></div>
-<a href="restaurant.html" class="card"><!-- /.card-text --> </a> <!-- /.card --> <a href="restaurant.html" a="" class="card"> <figure class="card-image"><img loading="lazy"  src="img\image1.jpg" data-is-external-image="true"  alt="image"></figure></a>
-<div class="card-text">
-<div class="card-heading">
-<h3 class="card-title">Zaburger'ом</h3>
-<span class="card-tag tag">40 мин</span></div>
-<!-- /.card-heading -->
-<div class="card-info">
-<div class="rating"><figure class="rating-star"><img loading="lazy"  src="img\rating.svg" data-is-external-image="true"  alt="rating"></figure> 4.8</div>
-<div class="price">От 500 р</div>
-<div class="category">Бургеры</div>
-</div>
-<!-- /.card-info --></div>
-<a href="restaurant.html" a="" class="card"><!-- /.card-text --> </a> <!-- /.card --> <a href="restaurant.html" class="card"> <figure class="card-image"><img loading="lazy"  src="img\image2.jpg" data-is-external-image="true"  alt="image"></figure></a>
-<div class="card-text">
-<div class="card-heading">
-<h3 class="card-title">Тифлис</h3>
-<span class="card-tag tag">50 мин</span></div>
-<!-- /.card-heading -->
-<div class="card-info">
-<div class="rating"><figure class="rating-star"><img loading="lazy"  src="img\rating.svg" data-is-external-image="true"  alt="rating"></figure> 3.9</div>
-<div class="price">От 600 р</div>
-<div class="category">Грузинская кухня</div>
-</div>
-<!-- /.card-info --></div>
-<a href="restaurant.html" class="card"><!-- /.card-text --> </a> <!-- /.card --> <a href="restaurant.html" class="card"> <figure class="card-image"><img loading="lazy"  src="img/image3.jpg" data-is-external-image="true"  alt="image"></figure></a>
-<div class="card-text">
-<div class="card-heading">
-<h3 class="card-title">Фасоль</h3>
-<span class="card-tag tag">40 мин</span></div>
-<!-- /.card-heading -->
-<div class="card-info">
-<div class="rating"><figure class="rating-star"><img loading="lazy"  src="img\rating.svg" data-is-external-image="true"  alt="rating"></figure> 3.4</div>
-<div class="price">От 800 р</div>
-<div class="category">Диетические блюда</div>
-</div>
-<!-- /.card-info --></div>
-<a href="restaurant.html" class="card"><!-- /.card-text --> </a> <!-- /.card --> <a href="restaurant.html" class="card"> <figure class="card-image"><img loading="lazy"  src="img/image4.jpg" data-is-external-image="true"  alt="image"></figure></a>
-<div class="card-text">
-<div class="card-heading">
-<h3 class="card-title">На завалинке</h3>
-<span class="card-tag tag">30 мин</span></div>
-<!-- /.card-heading -->
-<div class="card-info">
-<div class="rating"><figure class="rating-star"><img loading="lazy"  src="img\rating.svg" data-is-external-image="true"  alt="rating"></figure> 4.2</div>
-<div class="price">От 1000 р</div>
-<div class="category">Русская кухня</div>
-</div>
-<!-- /.card-info --></div>
-<a href="restaurant.html" class="card"><!-- /.card-text --> </a> <!-- /.card --> <a href="restaurant.html" class="card"> <figure class="card-image"><img loading="lazy"  src="img/image5.jpg" data-is-external-image="true"  alt="image"></figure></a>
-<div class="card-text">
-<div class="card-heading">
-<h3 class="card-title">Роллим Роллы</h3>
-<span class="card-tag tag">60 мин</span></div>
-<!-- /.card-heading -->
-<div class="card-info">
-<div class="rating"><figure class="rating-star"><img loading="lazy"  src="img\rating.svg" data-is-external-image="true"  alt="rating"></figure> 3.7</div>
-<div class="price">От 700 р</div>
-<div class="category">Японская кухня</div>
-</div>
-<!-- /.card-info --></div>
-<a href="restaurant.html" class="card"><!-- /.card-text --> </a> <!-- /.card --></div>
-<!-- /.cards --></section>
-</div>
-</main><footer class="footer">
-<div class="container">
-<div class="footer-block"><figure class="logo footer-logo"><img loading="lazy"  src="img\logo.svg" data-is-external-image="true"  alt="logo"></figure><nav class="footer-nav"><a href="#" class="footer-link">Ресторанам</a> <a href="#" class="footer-link">Курьерам</a> <a href="#" class="footer-link">Пресс-центр</a> <a href="#" class="footer-link">Контакты</a></nav>
-<div class="social-links"><a href="#" class="social-link"><img loading="lazy" src="img\instagram.svg" data-is-external-image="true"  alt="instagram"></a> <a href="#" class="social-link"><img loading="lazy" src="img\fb.svg" data-is-external-image="true"  alt="facebook"></a> <a href="#" class="social-link"><img loading="lazy" src="img\vk.svg" data-is-external-image="true"  alt="vk"></a></div>
-<!-- /.social-links --></div>
-</div>
-</footer>
+                
+  <p>
+    хмммм
+  </p>
             ]]>
         </content>
     </entry>
