@@ -5,9 +5,22 @@
     "home_page_url": "https://nikitaivchenko.github.io/skb-group",
     "feed_url": "https://nikitaivchenko.github.io/skb-group/feed.json",
     "user_comment": "",
+    "icon": "https://nikitaivchenko.github.io/skb-group/media/website/skb-text-logo-2.png",
     "author": {
         "name": "nivchenko"
     },
     "items": [
+        {
+            "id": "https://nikitaivchenko.github.io/skb-group/my-predostavlyaem.html",
+            "url": "https://nikitaivchenko.github.io/skb-group/my-predostavlyaem.html",
+            "title": "Мы предоставляем:",
+            "author": {
+                "name": "nivchenko"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-13T21:17:29+06:00",
+            "date_modified": "2021-07-13T21:17:29+06:00"
+        }
     ]
 }
