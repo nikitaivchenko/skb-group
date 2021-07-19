@@ -32,6 +32,7 @@ window.addEventListener('scroll', function (e) {
 	new_scroll_position = last_scroll_position;
 });
 
+
 // Dropdown menu
 (function (menuConfig) {
     /**
